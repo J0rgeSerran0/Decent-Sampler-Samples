@@ -1,6 +1,6 @@
 # **Korg X5D** *Decent Sampler Samples*
 
-Here you will finde the samples for **Decent Sampler**
+Here you will find the Samples for **Decent Sampler**
 
 [Go to home](../../README.md)
 
