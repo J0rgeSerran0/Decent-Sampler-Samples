@@ -2,6 +2,8 @@
 
 > This is a general information about this Synth
 
+![Korg X5D](images/Korg-X5D.png)
+
 Is similar to a Korg 05R/W with 64-note polyphony (instead of 32) and an additional set of patches
 
 The version of this Synth has a larger wave ROM and higher polyphony
