@@ -11,6 +11,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Digipiano`](#digipiano)
 - [`Fat Pianos`](#fat_pianos)
 - [`Guitarman`](#guitarman)
+- [`Harpsicord`](#harpsicord)
 - [`Ice Bells`](#ice_bells)
 - [`Malguea`](#malguea)
 - [`Zen Garden`](#zen_garden)
@@ -49,6 +50,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Guitarman.png)
 
 [**Korg X5D - Guitarman (7.4 Mb)**](Samples/Korg%20X5D%20-%20Guitarman.dslibrary)
+
+
+## <a name="harpsicord"></a>**Harpsicord**
+
+![IMAGE](images/Korg_X5D-Harpsicord.png)
+
+[**Korg X5D - Harpsicord (3.00 Mb)**](Samples/Korg%20X5D%20-%20Harpsicord.dslibrary)
 
 
 ## <a name="ice_bells"></a>**Ice Bells**
