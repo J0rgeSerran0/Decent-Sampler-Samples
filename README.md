@@ -58,7 +58,7 @@ I am sharing these Samples for enjoy and learn how to use them with **Decent Sam
 
 # **Samples**
 
-## <a name="korg_x5d"></a>[**Korg X5D** (*3 Samples*)](Samples/Korg-X5D/Readme.md)
+## <a name="korg_x5d"></a>[**Korg X5D**](Samples/Korg-X5D/Readme.md)
 
 # Other information
 
