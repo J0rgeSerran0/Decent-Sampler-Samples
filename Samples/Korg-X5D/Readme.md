@@ -17,6 +17,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Malguea`](#malguea)
 - [`Moonstone`](#moonstone)
 - [`Neurofunk`](#neurofunk)
+- [`Rezzofunky`](#rezzofunky)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -95,6 +96,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Neurofunk.png)
 
 [**Korg X5D - Neurofunk (5.8 Mb)**](Samples/Korg%20X5D%20-%20Neurofunk.dslibrary)
+
+
+## <a name="rezzofunky"></a>**Rezzofunky**
+
+![IMAGE](images/Korg_X5D-Rezzofunky.png)
+
+[**Korg X5D - Rezzofunky (4.8 Mb)**](Samples/Korg%20X5D%20-%20Rezzofunky.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
