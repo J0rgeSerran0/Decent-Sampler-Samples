@@ -26,7 +26,7 @@ A **.dslibrary** file is a *zip file* that contains the **.dspreset** file and t
 
 A **.dspreset** file is a *text file* in *XML format* with the sample details on it
 
-A **.dspreset** format can found here: [**File Format Reference Guide**](https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.html)
+You can find the **.dspreset** file format here: [**File Format Reference Guide**](https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.html)
 
 
 # How to use the samples?
