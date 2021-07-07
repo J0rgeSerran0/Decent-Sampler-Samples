@@ -13,6 +13,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Guitarman`](#guitarman)
 - [`Harpsicord`](#harpsicord)
 - [`Ice Bells`](#ice_bells)
+- [`Java Bells`](#java_bells)
 - [`Malguea`](#malguea)
 - [`Zen Garden`](#zen_garden)
 
@@ -64,6 +65,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Ice_Bells.png)
 
 [**Korg X5D - Ice Bells (3.65 Mb)**](Samples/Korg%20X5D%20-%20Ice%20Bells.dslibrary)
+
+
+## <a name="java_bells"></a>**Java Bells**
+
+![IMAGE](images/Korg_X5D-Java_Bells.png)
+
+[**Korg X5D - Java Bells (3.1 Mb)**](Samples/Korg%20X5D%20-%20Java%20Bells.dslibrary)
 
 
 ## <a name="malguea"></a>**Malguea**
