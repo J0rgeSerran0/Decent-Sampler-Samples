@@ -1,3 +1,6 @@
+> Donations or a *pay me a coffee* are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
+
+
 # Decent Sampler Samples
 
 I would like to share with you the samples I have done for the **Decent Sampler Plugin** in my spare time
@@ -49,8 +52,6 @@ I have prepared the samples as **.dslibrary** because is easy to download and lo
 Take in account that I am not responsible about this samples and how you are going to use them
 
 I have done this samples for enjoy and learn how to use them with **Decent Sampler** 
-
-> Donations or a *pay me a coffee* are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
 
 
 # **Samples**
