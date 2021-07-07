@@ -53,7 +53,7 @@ You can find the **.dspreset** file format here: [**File Format Reference Guide*
 
 I have prepared the Samples as **.dslibrary** because is easy to download and load from the **Decent Sampler**
 
-Take in account that I am not responsible about this Samples and how you are going to use them
+Take in account that I am not responsible about these Samples and how you are going to use them
 
 I am sharing these Samples for enjoy and learn how to use them with **Decent Sampler** 
 
