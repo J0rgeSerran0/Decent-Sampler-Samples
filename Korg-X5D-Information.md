@@ -27,4 +27,4 @@ The version of this Synth has a larger wave ROM and higher polyphony
 - [More info here](https://soundprogramming.net/synthesizers/korg/korg-x5/)
 - [List of Korg products](https://en.wikipedia.org/wiki/List_of_Korg_products)
 
-> [**Owner's Manual**](Manuals/Korg-X5D-X5.pdf)
+> [**Owner's Manual (8.6 Mb)**](Manuals/Korg-X5D-X5.pdf)
