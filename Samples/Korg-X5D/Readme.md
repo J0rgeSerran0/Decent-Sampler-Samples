@@ -19,6 +19,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Neurofunk`](#neurofunk)
 - [`Rezzofunky`](#rezzofunky)
 - [`Rock Piano`](#rock_piano)
+- [`Stereo Keys`](#stereo_keys)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -111,6 +112,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Rock_Piano.png)
 
 [**Korg X5D - Rock Piano (5.4 Mb)**](Samples/Korg%20X5D%20-%20Rock%20Piano.dslibrary)
+
+
+## <a name="stereo_keys"></a>**Stereo Keys**
+
+![IMAGE](images/Korg_X5D-Stereo_Keys.png)
+
+[**Korg X5D - Stereo Keys (3.97 Mb)**](Samples/Korg%20X5D%20-%20Stereo%20Keys.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
