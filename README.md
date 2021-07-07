@@ -49,9 +49,6 @@ I have done this samples for enjoy and learn how to use them with **Decent Sampl
 Donations or a coffee are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
 
 
-# **My Samples**
+# **Samples**
 
-## **Korg X5D**
-
-
-
+## [**Korg X5D**](Samples/Korg-X5D/Readme.md)
