@@ -1,4 +1,6 @@
-> Donations or a *pay me a coffee* are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
+![IMAGE](images/tips.png)
+
+> Donations, tips, or a payment for a coffee are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
 
 
 # Decent Sampler Samples
