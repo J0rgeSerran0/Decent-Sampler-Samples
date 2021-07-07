@@ -1,6 +1,6 @@
 # <a name="home"></a>**Korg X5D** *Decent Sampler Samples*
 
-Here you will find the Samples for **Decent Sampler**
+Here you will find the Samples (3) for **Decent Sampler**
 
 [Main Page](../../README.md)
 
