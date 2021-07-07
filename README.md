@@ -13,6 +13,8 @@ If you don't know *what is Decent Sampler*, I have to say about it that is a fre
 
 The plugin is available for **Windows**, **Linux** and **MacOS**
 
+![IMAGE](images/Decent_Sampler_Standalone.png)
+
 And you can download it from here: [**Decent Sampler Plugin**](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
 
