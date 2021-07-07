@@ -2,7 +2,7 @@
 
 Here you will find the Samples for **Decent Sampler**
 
-[Go to home](../../README.md)
+[Main Page](../../README.md)
 
 - [`Fat Piano`](#fat_piano)
 
