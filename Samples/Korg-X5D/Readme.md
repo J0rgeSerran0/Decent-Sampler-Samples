@@ -15,6 +15,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Ice Bells`](#ice_bells)
 - [`Java Bells`](#java_bells)
 - [`Malguea`](#malguea)
+- [`Moonstone`](#moonstone)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -79,6 +80,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Malguea.png)
 
 [**Korg X5D - Malguea (3.3 Mb)**](Samples/Korg%20X5D%20-%20Malguea.dslibrary)
+
+
+## <a name="moonstone"></a>**Moonstone**
+
+![IMAGE](images/Korg_X5D-Moonstone.png)
+
+[**Korg X5D - Moonstone (8.1 Mb)**](Samples/Korg%20X5D%20-%20Moonstone.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
