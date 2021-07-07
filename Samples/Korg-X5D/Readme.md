@@ -8,6 +8,7 @@ Here you will find the Samples for **Decent Sampler**
 ## **Samples**
 - [`12 Strings`](#12_strings)
 - [`Fat Pianos`](#fat_pianos)
+- [`Ice Bells`](#ice_bells)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -16,6 +17,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-12_Strings.png)
 
 [**Korg X5D - 12 Strings (2.9 Mb)**](Samples/Korg%20X5D%20-%2012%20Strings.dslibrary)
+
+
+## <a name="ice_bells"></a>**Ice Bells**
+
+![IMAGE](images/Korg_X5D-Ice_Bells.png)
+
+[**Korg X5D - Ice Bells (3.65 Mb)**](Samples/Korg%20X5D%20-%20Ice%20Bells.dslibrary)
 
 
 ## <a name="fat_pianos"></a>**Fat Pianos**
