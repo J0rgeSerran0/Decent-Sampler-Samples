@@ -34,7 +34,7 @@ You can find the **.dspreset** file format here: [**File Format Reference Guide*
 ## Install Decent Sampler Plugin
 
 1) Download the **Decent Sampler Plugin** and install it
-2) Start **Decent Sampler Plugin** and configure it
+2) Start **Decent Sampler** and configure it
 
 ## Use a sampler with Decent Sampler Plugin
 1) Download the **.dslibrary** on your computer
