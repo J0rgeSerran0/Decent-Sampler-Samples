@@ -23,7 +23,7 @@ The plugin is available for **Windows**, **Linux** and **MacOS**
 And you can download it from here: [**Decent Sampler Plugin**](https://www.decentsamples.com/product/decent-sampler-plugin/)
 
 
-# How is a Decent Sampler Sampler?
+# How is a Decent Sampler Sample?
 
 The plugin can read **.dspreset** and **.dslibrary** files
 
@@ -34,26 +34,26 @@ A **.dspreset** file is a *text file* in *XML format* with the sample details on
 You can find the **.dspreset** file format here: [**File Format Reference Guide**](https://www.decentsamples.com/wp-content/uploads/2020/06/format-documentation.html)
 
 
-# How to use the samples?
+# How to use the Samples?
 
-## Install Decent Sampler Plugin
+## Install Decent Sampler
 
 1) Download the **Decent Sampler Plugin** and install it
 2) Start **Decent Sampler** and configure it
 
-## Use a sampler with Decent Sampler Plugin
+## Use a sampler with Decent Sampler
 1) Download the **.dslibrary** on your computer
 2) Start **Decent Sampler**
 3) Select **File... > Load** option and look for the **.dslibrary** file to load it
 
 
-# About My Samples
+# About *My Samples*
 
-I have prepared the samples as **.dslibrary** because is easy to download and load from the **Decent Sampler Plugin**
+I have prepared the Samples as **.dslibrary** because is easy to download and load from the **Decent Sampler**
 
-Take in account that I am not responsible about this samples and how you are going to use them
+Take in account that I am not responsible about this Samples and how you are going to use them
 
-I have done this samples for enjoy and learn how to use them with **Decent Sampler** 
+I am sharing these Samples for enjoy and learn how to use them with **Decent Sampler** 
 
 
 # **Samples**
