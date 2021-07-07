@@ -50,7 +50,7 @@ Take in account that I am not responsible about this samples and how you are goi
 
 I have done this samples for enjoy and learn how to use them with **Decent Sampler** 
 
-Donations or a coffee are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
+> Donations or a *pay me a coffee* are welcome [**PayPal**](https://www.paypal.com/paypalme/jorserp) 
 
 
 # **Samples**
