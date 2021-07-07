@@ -6,6 +6,9 @@ Is similar to a Korg 05R/W with 64-note polyphony (instead of 32) and an additio
 
 The version of this Synth has a larger wave ROM and higher polyphony
 
+
+## Specifications
+
 **ROM of 6MB (340 instruments and 164 drums)**
 
 - Was Released in **1995**
@@ -24,7 +27,12 @@ The version of this Synth has a larger wave ROM and higher polyphony
 - Weight 4.5 Kg
 - Dimensions (w) 900 mm x (D) 254.2mm x (H) 83.4 mm
 
+
+## Links
 - [More info here](https://soundprogramming.net/synthesizers/korg/korg-x5/)
 - [List of Korg products](https://en.wikipedia.org/wiki/List_of_Korg_products)
+
+
+## Manual
 
 > [**Owner's Manual (8.6 Mb)**](Manuals/Korg-X5D-X5.pdf)
