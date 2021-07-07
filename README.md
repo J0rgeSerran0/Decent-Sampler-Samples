@@ -5,7 +5,7 @@
 
 # Decent Sampler Samples
 
-I would like to share with you the samples I have done for the **Decent Sampler Plugin** in my spare time
+I would like to share with you the samples I have done in my spare time, for the **Decent Sampler Plugin**
 
 Hours and days investigating how to convert the sounds into a *Decent Sampler* file that I hope that helps
 
