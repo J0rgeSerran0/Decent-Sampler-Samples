@@ -38,8 +38,8 @@ You can find the **.dspreset** file format here: [**File Format Reference Guide*
 
 ## Use a sampler with Decent Sampler Plugin
 1) Download the **.dslibrary** on your computer
-2) Start **Decent Sampler Plugin**
-3) Select **File... > Load** option and look for the **.dslibrary** file
+2) Start **Decent Sampler**
+3) Select **File... > Load** option and look for the **.dslibrary** file to load it
 
 
 # About My Samples
