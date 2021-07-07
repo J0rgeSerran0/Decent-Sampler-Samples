@@ -8,6 +8,7 @@ Here you will find the Samples for **Decent Sampler**
 ## **Samples**
 - [`12 Strings`](#12_strings)
 - [`Chorus Guitar`](#chorus_guitar)
+- [`Digipiano`](#digipiano)
 - [`Fat Pianos`](#fat_pianos)
 - [`Ice Bells`](#ice_bells)
 - [`Malguea`](#malguea)
@@ -26,6 +27,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Chorus_Guitar.png)
 
 [**Korg X5D - Chorus Guitar (4.25 Mb)**](Samples/Korg%20X5D%20-%20Chorus%20Guitar.dslibrary)
+
+
+## <a name="digipiano"></a>**Digipiano**
+
+![IMAGE](images/Korg_X5D-Digipiano.png)
+
+[**Korg X5D - Digipiano (6.5 Mb)**](Samples/Korg%20X5D%20-%20Digipiano.dslibrary)
 
 
 ## <a name="ice_bells"></a>**Ice Bells**
