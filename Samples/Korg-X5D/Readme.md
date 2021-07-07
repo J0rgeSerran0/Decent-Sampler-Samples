@@ -4,7 +4,10 @@ Here you will find the Samples for **Decent Sampler**
 
 [Main Page](../../README.md)
 
+
+## **Samples**
 - [`Fat Piano`](#fat_piano)
+
 
 ## <a name="fat_piano"></a>**Fat Piano**
 
