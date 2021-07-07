@@ -18,7 +18,7 @@ If you don't know *what is Decent Sampler*, I have to say about it that is a fre
 
 The plugin is available for **Windows**, **Linux** and **MacOS**
 
-There is a **Decent Sampler* App** for [**iOS**](https://apps.apple.com/us/app/decent-sampler/id1530441977) too
+There is a **Decent Sampler App** for [**iOS**](https://apps.apple.com/us/app/decent-sampler/id1530441977) too
 
 ![IMAGE](images/Decent_Sampler_Standalone.png)
 
