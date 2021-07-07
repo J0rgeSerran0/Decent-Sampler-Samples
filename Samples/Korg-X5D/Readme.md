@@ -16,6 +16,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Java Bells`](#java_bells)
 - [`Malguea`](#malguea)
 - [`Moonstone`](#moonstone)
+- [`Neurofunk`](#neurofunk)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -87,6 +88,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Moonstone.png)
 
 [**Korg X5D - Moonstone (8.1 Mb)**](Samples/Korg%20X5D%20-%20Moonstone.dslibrary)
+
+
+## <a name="neurofunk"></a>**Neurofunk**
+
+![IMAGE](images/Korg_X5D-Neurofunk.png)
+
+[**Korg X5D - Neurofunk (5.8 Mb)**](Samples/Korg%20X5D%20-%20Neurofunk.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
