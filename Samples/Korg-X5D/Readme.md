@@ -10,6 +10,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Chorus Guitar`](#chorus_guitar)
 - [`Digipiano`](#digipiano)
 - [`Fat Pianos`](#fat_pianos)
+- [`Guitarman`](#guitarman)
 - [`Ice Bells`](#ice_bells)
 - [`Malguea`](#malguea)
 - [`Zen Garden`](#zen_garden)
@@ -36,18 +37,25 @@ Here you will find the Samples for **Decent Sampler**
 [**Korg X5D - Digipiano (6.5 Mb)**](Samples/Korg%20X5D%20-%20Digipiano.dslibrary)
 
 
-## <a name="ice_bells"></a>**Ice Bells**
-
-![IMAGE](images/Korg_X5D-Ice_Bells.png)
-
-[**Korg X5D - Ice Bells (3.65 Mb)**](Samples/Korg%20X5D%20-%20Ice%20Bells.dslibrary)
-
-
 ## <a name="fat_pianos"></a>**Fat Pianos**
 
 ![IMAGE](images/Korg_X5D-Fat_Pianos.png)
 
 [**Korg X5D - Fat Pianos (6.8 Mb)**](Samples/Korg%20X5D%20-%20Fat%20Pianos.dslibrary)
+
+
+## <a name="guitarman"></a>**Guitarman**
+
+![IMAGE](images/Korg_X5D-Guitarman.png)
+
+[**Korg X5D - Guitarman (7.4 Mb)**](Samples/Korg%20X5D%20-%20Guitarman.dslibrary)
+
+
+## <a name="ice_bells"></a>**Ice Bells**
+
+![IMAGE](images/Korg_X5D-Ice_Bells.png)
+
+[**Korg X5D - Ice Bells (3.65 Mb)**](Samples/Korg%20X5D%20-%20Ice%20Bells.dslibrary)
 
 
 ## <a name="malguea"></a>**Malguea**
