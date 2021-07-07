@@ -9,7 +9,7 @@ I would like to share with you the samples I have done for the **Decent Sampler 
 
 Hours and days investigating how to convert the sounds into a *Decent Sampler* file that I hope that helps
 
-- [`Korg X5D`](#korg_x5d)
+- [`Korg X5D (2 Samples)`](#korg_x5d)
 
 
 # What is Decent Sampler?
@@ -58,4 +58,4 @@ I am sharing these Samples for enjoy and learn how to use them with **Decent Sam
 
 # **Samples**
 
-## <a name="korg_x5d"></a>[**Korg X5D**](Samples/Korg-X5D/Readme.md)
+## <a name="korg_x5d"></a>[**Korg X5D** (*2 Samples*)](Samples/Korg-X5D/Readme.md)
