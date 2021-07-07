@@ -9,6 +9,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`12 Strings`](#12_strings)
 - [`Fat Pianos`](#fat_pianos)
 - [`Ice Bells`](#ice_bells)
+- [`Malguea`](#malguea)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -31,6 +32,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Fat_Pianos.png)
 
 [**Korg X5D - Fat Pianos (6.8 Mb)**](Samples/Korg%20X5D%20-%20Fat%20Pianos.dslibrary)
+
+
+## <a name="malguea"></a>**Malguea**
+
+![IMAGE](images/Korg_X5D-Malguea.png)
+
+[**Korg X5D - Malguea (3.3 Mb)**](Samples/Korg%20X5D%20-%20Malguea.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
