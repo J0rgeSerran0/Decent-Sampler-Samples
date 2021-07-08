@@ -22,6 +22,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Stereo Keys`](#stereo_keys)
 - [`Super EP`](#super_ep)
 - [`Super Keys`](#super_keys)
+- [`Velo Roads`](#velo_roads)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -135,6 +136,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Super_Keys.png)
 
 [**Korg X5D - Super Keys (8.9 Mb)**](Samples/Korg%20X5D%20-%20Super%20Keys.dslibrary)
+
+
+## <a name="velo_roads"></a>**Velo Roads**
+
+![IMAGE](images/Korg_X5D-Velo_Roads.png)
+
+[**Korg X5D - Velo Roads (3.7 Mb)**](Samples/Korg%20X5D%20-%20Velo%20Roads.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
