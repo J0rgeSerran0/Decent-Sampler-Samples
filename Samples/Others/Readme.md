@@ -6,12 +6,20 @@ Here you will find the Samples for **Decent Sampler**
 
 
 ## **Samples**
+- [`Jonpv Slap Bass`](#jonpv_slap_bass)
 - [`The Bleep Drums`](#the_bleep_drums)
+
+
+## <a name="jonpv_slap_bass"></a>**Jonpv Slap Bass**
+
+![IMAGE](images/Jonpv_Slap_Bass.png)
+
+[**Jonpv Slap Bass (7.2 Mb)**](Samples/Jonpv%20Slap%20Bass.dslibrary)
 
 
 ## <a name="the_bleep_drums"></a>**The Bleep Drums**
 
-![IMAGE](images/Others-The_Bleep_Drums.png)
+![IMAGE](images/The_Bleep_Drums.png)
 
 [**The Bleep Drums (426 Kb)**](Samples/The%20Bleep%20Drums.dslibrary)
 
