@@ -23,6 +23,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Super EP`](#super_ep)
 - [`Super Keys`](#super_keys)
 - [`Velo Roads`](#velo_roads)
+- [`Warm Koto`](#warm_koto)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -143,6 +144,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Velo_Roads.png)
 
 [**Korg X5D - Velo Roads (3.7 Mb)**](Samples/Korg%20X5D%20-%20Velo%20Roads.dslibrary)
+
+
+## <a name="warm_koto"></a>**Warm Koto**
+
+![IMAGE](images/Korg_X5D-Warm_Koto.png)
+
+[**Korg X5D - Warm Koto (1.95 Mb)**](Samples/Korg%20X5D%20-%20Warm%20Koto.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
