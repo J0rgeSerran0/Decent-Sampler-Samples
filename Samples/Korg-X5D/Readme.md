@@ -20,6 +20,8 @@ Here you will find the Samples for **Decent Sampler**
 - [`Rezzofunky`](#rezzofunky)
 - [`Rock Piano`](#rock_piano)
 - [`Stereo Keys`](#stereo_keys)
+- [`Super EP`](#super_ep)
+- [`Super Keys`](#super_keys)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -119,6 +121,20 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Stereo_Keys.png)
 
 [**Korg X5D - Stereo Keys (3.97 Mb)**](Samples/Korg%20X5D%20-%20Stereo%20Keys.dslibrary)
+
+
+## <a name="super_ep"></a>**Super EP**
+
+![IMAGE](images/Korg_X5D-Super_EP.png)
+
+[**Korg X5D - Super EP (4.2 Mb)**](Samples/Korg%20X5D%20-%20Super%20EP.dslibrary)
+
+
+## <a name="super_keys"></a>**Super Keys**
+
+![IMAGE](images/Korg_X5D-Super_Keys.png)
+
+[**Korg X5D - Super Keys (8.9 Mb)**](Samples/Korg%20X5D%20-%20Super%20Keys.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
