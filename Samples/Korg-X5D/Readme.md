@@ -24,6 +24,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`Super Keys`](#super_keys)
 - [`Velo Roads`](#velo_roads)
 - [`Warm Koto`](#warm_koto)
+- [`X-Brass`](#x_brass)
 - [`Zen Garden`](#zen_garden)
 
 
@@ -151,6 +152,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Korg_X5D-Warm_Koto.png)
 
 [**Korg X5D - Warm Koto (1.95 Mb)**](Samples/Korg%20X5D%20-%20Warm%20Koto.dslibrary)
+
+
+## <a name="x_brass"></a>**X-Brass**
+
+![IMAGE](images/Korg_X5D-X-Brass.png)
+
+[**Korg X5D - X-Brass (6.7 Mb)**](Samples/Korg%20X5D%20-%20X-Brass.dslibrary)
 
 
 ## <a name="zen_garden"></a>**Zen Garden**
