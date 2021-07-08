@@ -15,6 +15,8 @@ Here you will find the Samples for **Decent Sampler**
 
 [**Others - The Bleep Drums (425 Kb)**](Samples/Others%20-%20The%20Bleep%20Drums.dslibrary)
 
+> **The Bleep Drums** is a free drumkit sample packbased on sound from Bleep synthsizer, and was made by the user *Stig's SoundMachinery* and can be found at [ToneBytes](http://tonebytes.com/the-bleep-drums/)*
+
 
 --- 
 [`Go Up`](#home)
