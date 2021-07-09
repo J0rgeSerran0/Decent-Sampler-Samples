@@ -14,7 +14,7 @@ Here you will find the Samples for **Decent Sampler**
 
 ![IMAGE](images/Jonpv_Slap_Bass.png)
 
-[**Jonpv Slap Bass (7.2 Mb)**](Samples/Jonpv%20Slap%20Bass.dslibrary)
+[**Jonpv Slap Bass (7.21 Mb)**](Samples/Jonpv%20Slap%20Bass.dslibrary)
 
 
 ## <a name="the_bleep_drums"></a>**The Bleep Drums**
