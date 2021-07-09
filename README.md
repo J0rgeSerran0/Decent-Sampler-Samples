@@ -10,8 +10,8 @@ I would like to share with you the samples I have done in my spare time, for the
 Hours and days investigating how to convert the sounds into a *Decent Sampler* file that I hope that helps
 
 - [**`Korg X5D (20 Samples)`**](#korg_x5d)
-- Roland MT-32 (working on it)
 - [**`Others (2 Samples)`**](#others)
+- Roland MT-32 (working on it)
 
 
 # What is Decent Sampler?
