@@ -5,9 +5,11 @@
 
 # Decent Sampler Samples
 
-I would like to share with you the samples I have done in my spare time, for the **Decent Sampler Plugin**
+I would like to share with you the samples I have prepared in my spare time, for the **Decent Sampler Plugin**
 
-Hours and days investigating how to convert the sounds into a *Decent Sampler* file that I hope that helps
+Hours and days investigating how to convert the sounds into a *Decent Sampler* file that I hope that helps and likes to the music lovers around the world
+
+> These emulated sounds are very close to the real sounds of their instruments
 
 - [**`Korg X5D (20 Samples)`**](#korg_x5d)
 - [**`Others (2 Samples)`**](#others)
