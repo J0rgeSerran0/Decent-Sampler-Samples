@@ -304,7 +304,7 @@ Here you will find the Samples for **Decent Sampler**
 
 ## <a name="solar_flare"></a>**Solar Flare**
 
-![IMAGE](images/Korg_X5D-Solar Flare.png)
+![IMAGE](images/Korg_X5D-Solar_Flare.png)
 
 [**Korg X5D - Solar Flare (9.09 Mb)**](DS/Korg%20X5D%20-%20Solar%20Flare.dslibrary)
 
