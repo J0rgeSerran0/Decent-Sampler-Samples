@@ -13,7 +13,7 @@ Hours and days investigating how to convert the sounds into a *Decent Sampler* f
 
 - [**`Korg X5D (58 Samples)`**](#korg_x5d)
 - [**`Others (2 Samples)`**](#others)
-- Roland MT-32 (working on it)
+- [**`Roland MT-32 (1 Sample)`**](#roland_mt32)
 
 
 # What is Decent Sampler?
@@ -66,6 +66,7 @@ I am sharing these Samples for enjoy and learn how to use them with **Decent Sam
 
 * <a name="korg_x5d"></a>[**Korg X5D**](Samples/Korg-X5D/Readme.md)
 * <a name="others"></a>[**Others**](Samples/Others/Readme.md)
+* <a name="roland_mt32"></a>[**Roland MT-32**](Samples/Roland MT-32/Readme.md)
 
 # Other information
 
