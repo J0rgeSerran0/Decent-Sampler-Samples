@@ -11,7 +11,7 @@ Hours and days investigating how to convert the sounds into a *Decent Sampler* f
 
 > These emulated sounds are very close to the real sounds of their instruments
 
-- [**`Korg X5D (20 Samples)`**](#korg_x5d)
+- [**`Korg X5D (58 Samples)`**](#korg_x5d)
 - [**`Others (2 Samples)`**](#others)
 - Roland MT-32 (working on it)
 
