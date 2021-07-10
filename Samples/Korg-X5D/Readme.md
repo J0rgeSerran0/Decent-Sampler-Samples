@@ -404,7 +404,7 @@ Here you will find the Samples for **Decent Sampler**
 
 ![IMAGE](images/Korg_X5D-Wave_Guitar.png)
 
-[**Korg X5D - Wave Guitar (8.32 Mb)**](DS/Korg%20X5D%20-%20Wave Guitar.dslibrary)
+[**Korg X5D - Wave Guitar (8.32 Mb)**](DS/Korg%20X5D%20-%20Wave%20Guitar.dslibrary)
 
 
 ## <a name="warriors"></a>**Wind Orch**
