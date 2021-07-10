@@ -66,7 +66,7 @@ I am sharing these Samples for enjoy and learn how to use them with **Decent Sam
 
 * <a name="korg_x5d"></a>[**Korg X5D**](Samples/Korg-X5D/Readme.md)
 * <a name="others"></a>[**Others**](Samples/Others/Readme.md)
-* <a name="roland_mt32"></a>[**Roland MT-32**](Samples/Roland MT-32/Readme.md)
+* <a name="roland_mt32"></a>[**Roland MT-32**](Samples/Roland%20MT-32/Readme.md)
 
 # Other information
 
