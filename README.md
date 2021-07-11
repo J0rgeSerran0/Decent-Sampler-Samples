@@ -13,7 +13,7 @@ Hours and days investigating how to convert the sounds into a *Decent Sampler* f
 
 - [**`Korg X5D (58 Samples)`**](#korg_x5d)
 - [**`Others (2 Samples)`**](#others)
-- [**`Roland MT-32 (3 Samples)`**](#roland_mt32)
+- [**`Roland MT-32 (7 Samples)`**](#roland_mt32)
 
 
 # What is Decent Sampler?
