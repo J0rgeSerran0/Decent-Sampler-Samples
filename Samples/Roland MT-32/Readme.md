@@ -13,6 +13,7 @@ Here you will find the Samples for **Decent Sampler**
 - [`ElecPiano2`](#elecpiano2)
 - [`ElecPiano3`](#elecpiano3)
 - [`ElecPiano4`](#elecpiano4)
+- [`HonkyTonk`](#honkytonk)
 
 
 ## <a name="acoupiano1"></a>**AcouPiano1**
@@ -62,6 +63,13 @@ Here you will find the Samples for **Decent Sampler**
 ![IMAGE](images/Roland_MT-32-ElecPiano4.png)
 
 [**Roland MT-32 - ElecPiano4 (744 Kb)**](DS/Roland%20MT-32%20-%20ElecPiano4.dslibrary)
+
+
+## <a name="honkytonk"></a>**HonkyTonk**
+
+![IMAGE](images/Roland_MT-32-HonkyTonk.png)
+
+[**Roland MT-32 - HonkyTonk (1.05 Mb)**](DS/Roland%20MT-32%20-%20HonkyTonk.dslibrary)
 
 
 --- 
